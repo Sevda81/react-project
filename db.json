@@ -1,0 +1,77 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "image": "https://dl.next1code.ir/images/react/article1.webp",
+      "title": "هوش مصنوعی",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است .",
+      "writter": "میلاد",
+      "category": "AI",
+      "readingTime": "5"
+    },
+    {
+      "id": "2",
+      "image": "https://dl.next1code.ir/images/react/article2.webp",
+      "title": "جاوااسکریپت",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است .",
+      "writter": "سالار حقیقت",
+      "category": "JavaScript",
+      "readingTime": "11"
+    },
+    {
+      "id": "3",
+      "image": "https://dl.next1code.ir/images/react/article3.webp",
+      "title": "Html , Css",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است .",
+      "writter": "کریم باقری",
+      "category": "طراحی وب",
+      "readingTime": "12"
+    },
+    {
+      "id": "4",
+      "image": "https://dl.next1code.ir/images/react/article4.webp",
+      "title": " وردپرس",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است .",
+      "writter": "محمد محمدی",
+      "category": "WordPress ",
+      "readingTime": "16"
+    },
+    {
+      "id": "5",
+      "image": "https://dl.next1code.ir/images/react/article5.webp",
+      "title": " Css ",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است .",
+      "writter": "اصفر",
+      "category": "Css",
+      "readingTime": "13"
+    },
+    {
+      "id": 6,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3P6kn6rvM-ehHx-tCEVoY2YVmyABHhAlwey8rdK-8Aw&s=10",
+      "title": "React",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است .",
+      "writter": "عباس",
+      "category": "React",
+      "readingTime": "15"
+    },
+    {
+      "id": 7,
+      "image": "https://next1code.ir/wp-content/uploads/2023/11/github2-course-cover-500x286.jpg",
+      "title": " گیت و گیت هاب",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است .",
+      "writter": "عباس",
+      "category": "Git , Github",
+      "readingTime": "20"
+    },
+    {
+      "id": "8",
+      "image": "https://dl.next1code.ir/images/react/article8.webp",
+      "title": "C#",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است .",
+      "writter": "عباس",
+      "category": "سی شارپ",
+      "readingTime": "6"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
